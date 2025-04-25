@@ -1,4 +1,4 @@
----
+
 
 ```markdown
 # 🛒 Instant Product Search – Flask + HTMX
